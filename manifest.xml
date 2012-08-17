@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>Tools Plugin</name>
+	<author>Charles Coleman</author>
+	<version>0.1</version>
+	<blurb>Tools for quick and easy plugin development</blurb>
+	<description>Tools plugin to help with general and development related functionality for other system and other plugins.</description>
+	<website>http://www.echcoleman.com/</website>
+	<copyright>(C) ECH Coleman - 2012</copyright>
+	<license>GNU General Public License version 2</license>
+	<requires>
+		<type>elgg_release</type>
+		<version>1.8</version>
+	</requires>
+</plugin_manifest>
